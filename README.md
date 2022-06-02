@@ -2,5 +2,5 @@
 
 1. KNDL Carrot Market
 2. Informatica Introduce
-3. Kndl Map
-4. Kndl Lost and Found
+3. KNDL Map
+4. KNDL Lost and Found
